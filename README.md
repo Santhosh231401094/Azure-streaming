@@ -1,6 +1,6 @@
 
 
-# Real-Time IoT Data Pipeline with Azure and Databricks Structured Streaming
+# Real-Time IoT Data Pipeline with Azure and Databricks -Spark Structured Streaming
 
 This project demonstrates an **end-to-end streaming data pipeline** for real-time IoT analytics. It processes sensor data from a simulated Raspberry Pi using **Azure Databricks** and stores it efficiently in **Azure Data Lake Storage (ADLS) Gen2**, leveraging **Delta Lake optimizations** to address the *small file problem*.
 
