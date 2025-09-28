@@ -88,6 +88,8 @@ Streaming jobs typically create **thousands of small files**, leading to poor qu
 ├── README.md                 # Project documentation
 ```
 
+## 📊 Cost Analysis
+<img width="1420" height="980" alt="costanalysis_charts (3)" src="https://github.com/user-attachments/assets/216279ae-652b-40ff-a7c1-19a345043486" />
 
 
 
